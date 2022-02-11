@@ -18,8 +18,3 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 [Servidor no Discord](https://discord.gg/3J87BMz5fD)
 
 [LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
-
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
